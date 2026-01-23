@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1762950361.95855 "/Users/anjalisarawgi/Documents/dintaifung/cv/anjali-sarawgi-cv/src/cv.tex" "cv.pdf" "cv" 1762950362.31527 2
+["pdflatex"] 1767105920.02636 "/Users/anjalisarawgi/Documents/dintaifung/cv/anjali-sarawgi-cv/src/cv.tex" "cv.pdf" "cv" 1767105920.42112 2
   "/Users/anjalisarawgi/Documents/dintaifung/cv/anjali-sarawgi-cv/src/cv.tex" 1762865464.10557 1289 58963027f6405b0d46c4f663d9db4329 ""
   "/usr/local/texlive/2025/texmf-dist/tex/generic/babel-english/english.ldf" 1496785618 7008 9ff5fdcc865b01beca2b0fe4a46231d4 ""
   "/usr/local/texlive/2025/texmf-dist/tex/generic/babel/babel.sty" 1739572459 143388 b008e1666520ff43d0878397f2926242 ""
@@ -20,7 +20,7 @@
   "/usr/local/texlive/2025/texmf-dist/web2c/texmf.cnf" 1739380943 42148 61becc7c670cd061bb319c643c27fdd4 ""
   "/usr/local/texlive/2025/texmf-var/web2c/pdftex/pdflatex.fmt" 1757415643 3345735 8cc4cb5f81468ec809d9c7794efbfd71 ""
   "/usr/local/texlive/2025/texmf.cnf" 1741450484 577 418a7058ec8e006d8704f60ecd22c938 ""
-  "cv.aux" 1762950361.9575 32 3985256e7290058c681f74d7a3565a19 "pdflatex"
+  "cv.aux" 1767105920.02533 32 3985256e7290058c681f74d7a3565a19 "pdflatex"
   "cv.tex" 1762865464.10557 1289 58963027f6405b0d46c4f663d9db4329 ""
   "yaac-another-awesome-cv.cls" 1762120918.01369 16475 2a8a004c9f008f3f3b2b0b609c103d01 ""
   (generated)
